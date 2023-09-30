@@ -82,6 +82,7 @@ body {
   -webkit-text-fill-color: transparent;
 }
 
+
 .custom-scrollbar::-webkit-scrollbar {
   width: 3px;
   height: 3px;
